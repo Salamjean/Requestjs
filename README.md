@@ -26,8 +26,8 @@ juste la commande node fetch-api.js
 ### Instructions d'installation
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/Salamjean/Requestjs-api
-   cd Requestjs-api
+   git clone https://github.com/Salamjean/Requestjs
+   cd Requestjs
 
 ### Installez les dépendances :
 2. npm install
