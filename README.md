@@ -27,8 +27,8 @@ juste la commande node fetch-api.js
 ### Instructions d'installation
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/Salamjean/axios-api
-   cd axios-api
+   git clone https://github.com/Salamjean/Requestjs-api
+   cd Requestjs-api
 
 ### Installez les dépendances :
 2. npm install
