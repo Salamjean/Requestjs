@@ -19,7 +19,6 @@ Un projet Node.js simple qui démontre comment interagir avec JSONPLACEHOLDER en
 juste la commande node fetch-api.js
 
 ## Installation de Axios
-
 ### Prérequis
 - Node.js 
 - npm 
@@ -35,7 +34,7 @@ juste la commande node fetch-api.js
 
 ### Utilisation
 Exécutez le projet :
-nodemon axios-api.js
+node axios-api.js
 
 ## Structure du projet
 
