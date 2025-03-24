@@ -1,8 +1,14 @@
 # Requêtes API avec Fetch et Axios (Node.js)
 
-Un projet Node.js simple qui démontre comment effectuer des requêtes HTTP en utilisant fetch et Axios.
+Un projet Node.js simple qui démontre comment interagir avec JSONPLACEHOLDER en utilisant fetch et Axios.
 
-## 📋 Fonctionnalités
+
+## API Utilisée
+
+- Lien API : `https://jsonplaceholder.typicode.com/users`
+- Action : sur les users
+
+## Fonctionnalités
 - `GET` tous les utilisateurs
 - `GET` un seul utilisateur par ID
 - `POST` (créer) un nouvel utilisateur
